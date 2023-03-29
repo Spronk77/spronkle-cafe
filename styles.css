@@ -7,6 +7,8 @@ body{
 header{
     background-color: #cab198;
     text-align: center;
+    position: fixed;
+    width: 100%;
 }
 h1{
     color: #f23f66;
