@@ -2,27 +2,27 @@
     margin: 0px;
 }
 body{
-    background-color: #eaded2;
+    background-color: #000000;
 }
 header{
-    background-color: #cab198;
+    background-color: #000000;
     text-align: center;
 }
 h1{
-    color: #f23f66;
+    color: #00ff00;
     font-size: 70px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 5px;
 }
 a{
     text-decoration: none;
-    color: #eaded2;
+    color: #000000;
 }
 a:hover{
-    color: #39b7fa;
+    color: #ff00ff;
 }
 .navbar{
-    background-color: #f23f66;
+    background-color: #00ff00;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -30,5 +30,5 @@ a:hover{
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #eaded2;
+    color: #000000;
 }
