@@ -1,3 +1,27 @@
+*{
+    margin: 0px;
+}
 body{
-    backgound-color: cyan;
+    background-color: #eaded2;
+}
+header{
+    background-color: #cab198;
+    text-align: center;
+}
+h1{
+    color: #f23f66;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 5px;
+}
+.navbar{
+    background-color: #f23f66;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.links{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eaded2;
 }
