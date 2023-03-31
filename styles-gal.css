@@ -30,9 +30,23 @@ p{
     font-size: 25px;
     color: #3a3a3a;
 }
+img{
+    max-width: 100%;
+    max-height: 600px;
+}
+.image {
+    flex-basis: 40%
+}
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: left;
+}
 .newImg{
     border-top: 5px solid #3a3a3a;
     padding: 15px;
+    display: flex;
+    align-items: center;
 }
 .navbar{
     background-color: #3a3a3a;
@@ -49,4 +63,22 @@ p{
     padding-top: 150px;
     margin-left: 30px;
     margin-right: 30px;
+}
+::-webkit-scrollbar {
+    width: 15px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f0f0f0;
+}
+  
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #3a3a3a;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #4d2eff;
 }
